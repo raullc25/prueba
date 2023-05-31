@@ -1,2 +1,4 @@
-System.out.println("Hola soy javier");
-System.out.println("Hola soy raul");
+
+x=1;
+y=2;
+suma=x+y;
